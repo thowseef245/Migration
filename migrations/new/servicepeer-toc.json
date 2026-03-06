@@ -1,0 +1,24 @@
+{
+  "adoOrganization": "tfs-glo-lexisadvance",
+  "adoProject": "Apps.Radix.Peers",
+  "migratePRs": false,
+  "topics": ["ado-migration"],
+  "scheduledTime": "",
+  "teams": {
+    "toc-admins": {
+      "permission": "admin",
+	  "members": ["kollih_lnlp", "UNNIKRAX_lnlp", "MAALAYBX_lnlp", "nareddyp_lnlp"]
+    },
+    "toc-developers": {
+      "permission": "write",
+      "members": ["rajendj1_lnlp", "khant1_lnlp", "mishra20_lnlp", "jadhavv2_lnlp", "sathyamv_lnlp", "rumandls_lnlp", "dhakashk_lnlp", "agarwas7_lnlp", "noorullb_lnlp"]
+    }
+  },
+  "repos": [
+    {
+      "adoRepoName": "ServicePeer.ToC",
+      "githubRepoName": "ServicePeer.ToC",
+      "branches": ["master"]
+    }
+  ]
+}
